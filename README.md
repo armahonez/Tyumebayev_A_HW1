@@ -1,1 +1,3 @@
-# Tyumebayev_A_HW1
+# My amazing Team Project
+
+This is all about my super trah
